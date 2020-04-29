@@ -1,0 +1,16 @@
+{
+  "name": "arrest_hist_client",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.663.0",
+    "d3-dsv": "^1.2.0",
+    "gridsome": "^0.7.0",
+    "papaparse": "^5.2.0",
+    "plotly.js": "^1.53.0"
+  }
+}
